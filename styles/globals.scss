@@ -1,0 +1,67 @@
+//body
+body{
+    margin: 0;
+    padding: 0;
+}
+//section
+section{
+    padding: 3vw 0;
+}
+//フォント
+h1 {
+    font-size: 4.5vw;
+    font-family: "MS Pゴシック", sans-serif;
+    letter-spacing: 1vw;
+    line-height: 130%;
+    margin: 2vw 0;
+}
+h2 {
+    font-size: 2vw;
+    font-family: "MS Pゴシック", sans-serif;
+    letter-spacing: 0.6vw;
+    line-height: 120%;
+    margin: 2vw 0;
+
+}
+h3 {
+    font-size: 1.7vw;
+    font-family: "MS Pゴシック", sans-serif;
+    letter-spacing: 0.4vw;
+    line-height: 120%;
+    margin: 2vw 0;
+
+}
+h4 {
+    font-size: 1.3vw;
+    font-family: "MS Pゴシック", sans-serif;
+    letter-spacing: 0.3vw;
+    line-height: 120%;
+    margin: 2vw 0;
+
+}
+h5 {
+    font-size: 1vw;
+    font-family: "MS Pゴシック", sans-serif;
+    letter-spacing: 0.2vw;
+    line-height: 140%;
+    margin: 2vw 0;
+
+}
+p {
+    font-size: 1vw;
+    font-family: "MS Pゴシック", sans-serif;
+    letter-spacing: 0.2vw;
+    line-height: 150%;
+    margin: 2vw 0;
+
+}
+//色
+$bg-color1: #31747d;
+$bg-color2: #b6e3cf;
+$bg-color3: #7baab0;
+$bg-color4: #b07b97;
+$bg-color5: #e67e7d;
+$text-color:#3a3a3a;
+$heading-color:#ffffff;
+
+

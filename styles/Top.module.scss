@@ -1,0 +1,34 @@
+// ▼▼定義部分▼▼//
+//背景色
+$bg-color1: #31747d;
+$bg-color2: #b6e3cf;
+$bg-color3: #7baab0;
+$bg-color4: #b07b97;
+$bg-color5: #e67e7d;
+$text-color:#3a3a3a;
+$heading-color:#ffffff;
+
+
+
+
+//トップページのセクション
+.headerSection{
+  background: $bg-color1;
+  color: $heading-color;
+}
+.aboutSection{
+  background: $bg-color2;
+  color: $heading-color;
+}
+.blogSection{
+  background: $bg-color3;
+  color: $heading-color;
+}
+.worksSection{
+  background: $bg-color4;
+  color: $heading-color;
+}
+.contactSection{
+  background: $bg-color5;
+  color: $heading-color;
+}
